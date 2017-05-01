@@ -1,0 +1,26 @@
+{
+  "name": "movie-check",
+  "version": "1.0.0",
+  "description": "simple check your favourite movie from Open Movie Database API",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "cli-color": "^1.2.0",
+    "cli-table": "^0.3.1",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaulan/movie-check.git"
+  },
+  "author": "Ayat Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaulan/movie-check/issues"
+  },
+  "homepage": "https://github.com/amaulan/movie-check#readme"
+}
